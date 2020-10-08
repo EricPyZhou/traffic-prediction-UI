@@ -1,2 +1,2 @@
 # traffic-prediction
-490 Capstone Project
+490 Capstone project frontend
